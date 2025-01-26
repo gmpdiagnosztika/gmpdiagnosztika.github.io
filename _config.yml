@@ -29,7 +29,7 @@ header:
       url: /rolunkondtak/
       style: link
     - label: Jelentkezés
-      url: /jelentkezés/
+      url: /jelentkezes/
       style: link
   has_social: false
 collections:
