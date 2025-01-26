@@ -1,0 +1,34 @@
+---
+layout: body
+---
+
+  <article class="post post-full">
+    <header class="post-header inner-sm">
+      <h1 class="post-title underline">{{ page.title }}</h1>
+      {% assign subtitle_is_not_empty = page.subtitle | is_not_empty %}
+      {% if subtitle_is_not_empty %}
+      <div class="post-subtitle">
+        {{ page.subtitle }}
+      </div>
+      {% endif %}
+    </header>
+    {% assign content_img_path_is_not_empty = page.content_img_path | is_not_empty %}
+    {% if content_img_path_is_not_empty %}
+    <div class="post-image">
+      <img src="{{ page.content_img_path | relative_url }}" alt="{{ page.content_img_alt }}" />
+    </div>
+    {% endif %}
+    <div class="post-content inner-sm">
+      <div class="post-author">
+        <img src="{{ '/images/avatar_100.jpg' | relative_url }}" alt="Dr. Szabó Ágnes" />
+        <div class="post-autho-info"> 
+          <h4>Dr. Szabó Ágnes</h4>
+          <time class="published"
+          datetime="{{ page.date | date: '%Y-%m-%d %H:%M' }}"> {% include date.html date=page.date %}</time>
+        </div>
+      </div>
+      {{ content }}
+    </div>
+    <footer class="post-meta inner-sm">
+    </footer>
+  </article><!-- .post -->

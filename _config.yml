@@ -1,0 +1,49 @@
+title: GMP-diagnosztika
+url: "https://www.gmpdiagnosztika.hu"
+baseurl: /
+permalink: '/:title/'
+layout_style: overflow
+palette: 
+logo: "images/logo.png"
+locale: "hu"
+# Google Analytics
+#ga_track_id: 'G-28B92VCC9R'
+#ga_domain: huangxuan.me
+
+header:
+  has_nav: true
+  nav_links:
+    - label: Kezdőoldal
+      url: /
+      style: link
+    - label: hírek/aktuális
+      url: /hirek_aktualis/
+      style: link
+    - label: Árak
+      url: /arak/
+      style: link
+    - label: Kapcsolat
+      url: /kapcsolat/
+      style: link
+    - label: Rólunk mondták
+      url: /rolunkondtak/
+      style: link
+    - label: Jelentkezés
+      url: /jelentkezés/
+      style: link
+  has_social: false
+collections:
+  news:
+    output: true
+footer:
+  content: >-
+    © Minden jog fenntartva - 2025 | <a href="/gdpr">GDPR</a>
+sass:
+  indentWidth: 4
+  style: nested
+  precision: 10
+  sass_dir: _sass
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap

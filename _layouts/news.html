@@ -1,0 +1,25 @@
+---
+layout: body
+---
+<header class="screen-reader-text">
+  <h1>{{ page.title }}</h1>
+</header>
+{% assign display_news = site.news | sort: 'date' | reverse %}
+{% for news in display_news %}
+<article class="post page post-full">
+  <header class="post-header inner-sm">
+    <h1 class="post-title underline">{{ news.title }}</h1>
+  </header>
+  <div class="post-content inner-sm">
+    <div class="post-author">
+      <img src="{{ '/images/avatar_100.jpg' | relative_url }}" alt="Dr. Szabó Ágnes" />
+      <div class="post-autho-info">
+        <h4>Dr. Szabó Ágnes</h4>
+        <time class="published" datetime="{{ news.date | date: '%Y-%m-%d %H:%M' }}"> {% include date.html date=news.date
+          %}</time>
+      </div>
+    </div>
+    {{ news.content }}
+  </div>
+</article>
+{% endfor %}
