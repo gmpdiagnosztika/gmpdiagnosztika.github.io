@@ -31,7 +31,13 @@ header:
     - label: Jelentkezés
       url: /jelentkezes/
       style: link
-  has_social: false
+  has_social: true
+  social_links:
+    - label: facebook
+      url: https://www.facebook.com/GMPdiagnosztika/
+      style: icon
+      icon_class: facebook
+      new_window: true
 collections:
   news:
     output: true
