@@ -3,7 +3,7 @@ layout: page
 title: GMP-diagnosztika
 description: GMP-diagnosztika
 image:  images/kezdooldal.jpg
-img_path:  mages/kezdooldal.jpg
+img_path:  images/kezdooldal.jpg
 img_alt: ""
 ---
 
