@@ -3,7 +3,6 @@ layout: page
 title: Árak
 description: Árak
 ---
-Árak
 A tanfolyam díja 105.000 Ft, mely tartalmazza a tanfolyami csomagot is (A fejlesztés
 gyakorlásához kitöltött GMP-diagnosztikai anyagokat, üres tesztlapokat.)
 
