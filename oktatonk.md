@@ -3,14 +3,20 @@ layout: page
 title: Oktatónk
 description: Oktatónk
 ---
-[Dr. Szabó Ágnes](/images/szabóági.jpg)
+![Dr. Szabó Ágnes](/images/szabóági.jpg)
+
 Tanulmányok
-2007-2010 Eötvös Loránd Tudományegyetem Bölcsészettudományi Kar, magyar alapszakos bölcsész, művelődéstudomány szakirány (BA)
-2009-2010 Eötvös Loránd Tudományegyetem Bölcsészettudományi Kar, kísérleti és alkalmazott fonetika című önálló program
-2010-2013 Eötvös Loránd Tudományegyetem Bölcsészettudományi Kar, magyartanár, nyelv- és beszédfejlesztő tanár (MA)
-2013-2014 Focus Oktatási Kft., gyógypedagógiai asszisztens OKJ tanfolyam
-2013-2018 Eötvös Loránd Tudományegyetem Bölcsészettudományi Kar Nyelvtudományi Doktori Iskola, alkalmazott nyelvészet oktatási program. Disszertáció címe: A lexikális hozzáférés sajátosságai hallássérült középiskolásoknál
-2014-2018 Eötvös Loránd Tudományegyetem Bárczi Gusztáv Gyógypedagógiai Kar, gyógypedagógus, hallássérültek pedagógiája szakirányon és gyógypedagógus, logopédia szakirányon (BA)
+- 2007-2010 Eötvös Loránd Tudományegyetem Bölcsészettudományi Kar, magyar alapszakos bölcsész, művelődéstudomány szakirány (BA)
+
+- 2009-2010 Eötvös Loránd Tudományegyetem Bölcsészettudományi Kar, kísérleti és alkalmazott fonetika című önálló program
+
+- 2010-2013 Eötvös Loránd Tudományegyetem Bölcsészettudományi Kar, magyartanár, nyelv- és beszédfejlesztő tanár (MA)
+
+- 2013-2014 Focus Oktatási Kft., gyógypedagógiai asszisztens OKJ tanfolyam
+
+- 2013-2018 Eötvös Loránd Tudományegyetem Bölcsészettudományi Kar Nyelvtudományi Doktori Iskola, alkalmazott nyelvészet oktatási program. Disszertáció címe: A lexikális hozzáférés sajátosságai hallássérült középiskolásoknál
+
+- 2014-2018 Eötvös Loránd Tudományegyetem Bárczi Gusztáv Gyógypedagógiai Kar, gyógypedagógus, hallássérültek pedagógiája szakirányon és gyógypedagógus, logopédia szakirányon (BA)
 
 Szakmai továbbképzések
 Szól-e? szűrőeljárás (6 órás képzés)
