@@ -3,6 +3,8 @@ layout: page
 title: Oktatónk
 description: Oktatónk
 ---
+Dr. Szabó Ágnes 
+
 ![Dr. Szabó Ágnes](/images/szabóági.jpg)
 
 #### Tanulmányok
