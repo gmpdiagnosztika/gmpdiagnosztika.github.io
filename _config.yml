@@ -16,6 +16,9 @@ header:
     - label: Kezdőoldal
       url: /
       style: link
+    - label: Oktatónk
+      url: /oktatonk/
+      style: link
     - label: hírek/aktuális
       url: /hirek_aktualis/
       style: link
