@@ -29,7 +29,7 @@ header:
       url: /kapcsolat/
       style: link
     - label: Rólunk mondták
-      url: /rolunkondtak/
+      url: /rolunkmondtak/
       style: link
     - label: Jelentkezés
       url: /jelentkezes/
