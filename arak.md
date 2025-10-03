@@ -17,5 +17,6 @@ Visszafizetési feltételek:
 2.	50%-os visszafizetés: a tanfolyam első napja előtt 30 napig.
 3.	Nincs visszafizetési lehetőség: a tanfolyam első napja előtt 30 napon belül.
 4.	Vis major esetén írásos kérelmet kell benyújtani a gmpdiagnosztika@gmail.com e- mail címre, melyről elbírálás után értesítést küldünk.
-5.	Minden esetben levonásra kerül 5000 Ft adminisztrációs költség a visszautalásoknál.
+5.	Minden esetben levonásra kerül 5000 Ft adminisztrációs költség a visszautalásoknál.  
+  
 Érvényes 2025. október 1-től.
