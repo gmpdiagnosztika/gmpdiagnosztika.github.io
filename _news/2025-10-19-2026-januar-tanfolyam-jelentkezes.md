@@ -1,5 +1,5 @@
 ---
-title: 2026 Jjanuár tanfolyam jelentkezés
+title: 2026 január tanfolyam jelentkezés
 date: '2025.10.19'
 ---
 A 2026-os év első GMP-diagnosztika tanfolyama 2026. január 23-tól január 25-ig naponta 9–17 óra között lesz megtartva.   
