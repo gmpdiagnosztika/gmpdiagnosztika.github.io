@@ -46,7 +46,7 @@ collections:
     output: true
 footer:
   content: >-
-    © Minden jog fenntartva - 2025 | <a href="/gdpr">GDPR</a>
+    © Minden jog fenntartva - 2026 | <a href="/gdpr">GDPR</a>
 sass:
   indentWidth: 4
   style: nested
