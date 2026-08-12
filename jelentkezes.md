@@ -9,8 +9,8 @@ Budapest, Áthidaló Fejlesztőház
 Jelentkezés nyílik: 2026.08.10-én.  
 Minimum létszám: 20 fő  
 
-Jelentkezés az alábbi linken: 
-https://forms.gle/fSLJcPWMdBfiBvCz7
+[JELENTKEZÉS](https://forms.gle/fSLJcPWMdBfiBvCz7)]
+  
   
   
 **2026.11.13-14-15.** 
