@@ -13,3 +13,6 @@ Minimum létszám: 20 fő
 Budapest, Áthidaló Fejlesztőház  
 Jelentkezés nyílik: 2026.09.21-én.  
 Minimum létszám: 20 fő  
+
+Jelentkezés az alábbi linken: 
+https://forms.gle/fSLJcPWMdBfiBvCz7
