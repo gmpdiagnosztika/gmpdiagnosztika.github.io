@@ -6,8 +6,7 @@ description: Jelentkezés
 Soron következő képzéseink:  
 
 ---
-title: Szeptemberi jelentkezés
-date: '2026.09.23'
+
 ---
 [Jelentkezési lap](https://docs.google.com/forms/d/e/1FAIpQLSeUHZNer6Y2lY8_k28vcYrQuEEl0bbbxrtT7PJ3L7ICFxOatQ/viewform)  
 A tanfolyam célja: Gyakorló logopédusok, gyógypedagógusok, óvodapedagógusok és
