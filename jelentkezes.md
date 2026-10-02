@@ -7,7 +7,7 @@ Soron következő képzéseink:
 
 ---
 
----
+
  
 A tanfolyam célja: Gyakorló logopédusok, gyógypedagógusok, óvodapedagógusok és
 tanítók, tanárok, fejlesztő pedagógusok felkészítése a gyermekek beszédpercepciós
@@ -30,7 +30,7 @@ Díja: 115.000 Ft (mely a tanfolyamhoz szükséges eszközöket is tartalmazza -
 Befizetés a küldött díjbekérő alapján, 8 napos határidővel (a díj be nem fizetése a díjbekérő és a regisztrációs folyamat automatikus törlésével jár.) 
 
 
-
+---
 
 
 
